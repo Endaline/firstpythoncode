@@ -10,4 +10,4 @@ for x in range(1,21):
 fruits = ("gauva","orange","apple","pinapple")
 
 for y in fruits:
-  print(y)
+  print(y) 
